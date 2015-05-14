@@ -12,7 +12,6 @@ def ask():
 
 	print "Welcome to the coolest command line bar"
 	print "What kind of drink can I pour for you? "
-	#answer = raw_input("What kind of drink would you like?")	
 
 	questions = {
 	    "strong": "Do ye like yer drinks strong? If so, say 'strong' ",
@@ -53,7 +52,7 @@ def ask():
 	# 	"fruity": False
 	# }
 
-	
+
 
 ask()
 
