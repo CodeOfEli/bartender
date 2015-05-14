@@ -44,6 +44,20 @@ def ask():
 		print "Please enter your order again."
 		ask()
 
+# I guess I am trying to get to this, where one of them is true and the rest is false??
+	# drink_order = {
+	# 	"strong": False, 
+	# 	"salty": True, 
+	# 	"bitter": False, 
+	# 	"sweet": False, 
+	# 	"fruity": False
+	# }
+
+	
+
 ask()
+
+
+
 
 
